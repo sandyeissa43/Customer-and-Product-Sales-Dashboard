@@ -4,3 +4,4 @@ A concise dashboard displaying Total Sales, Total Orders, Total Quantity, Monthl
 ## 📊 Dashboard Preview
 
 ![Dashboard Screenshot](https://github.com/sandyeissa43/Customer-and-Product-Sales-Dashboard/blob/main/Customer%20and%20Products%20sales1.png)
+![Dashboard Screenshot](https://github.com/sandyeissa43/Customer-and-Product-Sales-Dashboard/blob/main/Customer%20and%20Product%20sales2.png)
